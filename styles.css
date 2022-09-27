@@ -11,8 +11,203 @@ h1.homepage {
     
 }
 
+img.homepage {
+    margin:auto;
+    display:block;
+    
+}
+
+p.homepage {
+    font-size:x-large;
+    width:60%;
+    margin-top:50px;
+    margin-left:500px;
+    border-style:outset;
+    border-color:purple;
+    background-color:pink;
+    text-align:center;
 
 
+}
+
+body.homepage {
+    background-image:url("Country\ Website\ images/storm.jfif");
+    height: 100%;
+  
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ul.homepage{
+    border:5px dashed;
+    list-style:none;
+    width:50%;
+    margin:auto;
+    text-align:center;
+    padding-left:0;
+}
+
+ul.homepage>li {
+    display:inline-block;
+    border-style:outset;
+    border-radius:3px;
+
+}
+
+ul.homepage>li>a:hover{
+    color:yellowgreen;
+}
 
 
+h1.Vorin {
+    font-size:100px;
+    display:inline-block;
+    text-align:center;
+    margin-left:1000px;
+    color:cornsilk;
+    
+}
+
+img.Vorin {
+    display:block;
+    margin-top:30px;
+    margin-left:1000px;
+    margin-top:150px;
+    width:400px;
+    Height:500px
+}
+
+body.Vorin {
+    background-color:rgb(101, 101, 245);
+}
+
+p.Vorin{
+    text-align:center;
+    font-size: x-large;
+    border-style:double;
+    border-color:cornsilk;
+    background-color: darkcyan;
+
+}
+
+h1.soul{
+    font-size:100px;
+    display:inline-block;
+    text-align:center;
+    margin-left:1000px;
+    color:yellowgreen;
+}
+
+img.soul{
+    display:block;
+    margin-top:30px;
+    margin-left:1000px;
+    margin-top:150px;
+    width:500px;
+    Height:500px
+}
+
+body.soul{
+    background-color:rgb(255, 57, 57);
+}
+
+p.soul{
+    text-align:center;
+    font-size: x-large;
+    border-style:double;
+    border-color:cornsilk;
+    background-color: darkcyan;
+}
+
+ul.Vorin{
+    border:5px dashed;
+    list-style:none;
+    width:50%;
+    margin:auto;
+    text-align:center;
+    padding-left:0;
+}
+
+ul.Vorin>li {
+    display:inline-block;
+    border-style:outset;
+    border-radius:3px;
+
+}
+
+ul.Vorin>li>a:hover{
+    color:yellowgreen;
+}
+
+ul.soul{
+    border:5px dashed;
+    list-style:none;
+    width:50%;
+    margin:auto;
+    text-align:center;
+    padding-left:0;
+}
+
+ul.soul>li {
+    display:inline-block;
+    border-style:outset;
+    border-radius:3px;
+
+}
+
+ul.soul>li>a:hover{
+    color:yellowgreen;
+}
+  
+img.alethi{
+display:block;
+margin-top:30px;
+margin-left:1000px;
+margin-top:150px;
+width:500px;
+Height:500px
+}
+
+body.alethi {
+    background-color:rgb(42, 158, 27);
+}
+
+p.alethi{
+    text-align:center;
+    font-size: x-large;
+    border-style:double;
+    border-color:rgb(197, 164, 30);
+    background-color: rgb(217, 238, 31);
+
+}
+
+h1.alethi{
+    font-size:100px;
+    display:inline-block;
+    text-align:center;
+    margin-left:1000px;
+    color:rgb(25, 157, 233);
+}
+
+ul.alethi{
+    border:5px dashed;
+    list-style:none;
+    width:50%;
+    margin:auto;
+    text-align:center;
+    padding-left:0;
+}
+
+ul.alethi>li {
+    display:inline-block;
+    border-style:outset;
+    border-radius:3px;
+
+}
+
+ul.alethi>li>a:hover{
+    color:yellowgreen;
+}
 
